@@ -1,6 +1,6 @@
 # ctrlk README
  
-cut and copy a line like normal  mac  command in vs code. 
+cut and copy a line the same time with ctrl+k   command in vs code, like in intelliJ
 ## Features
 
  
