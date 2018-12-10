@@ -1,6 +1,5 @@
 # ctrlk README
-
-Description 
+ 
 cut and copy a line like normal  mac  command in vs code. 
 ## Features
 
